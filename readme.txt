@@ -8,3 +8,4 @@ Git has a mutable index called stage.
 65565你好ssh
 创建了新的分支dev
 public void static Interger = 8;
+测试合并不消失分支
