@@ -10,4 +10,5 @@ Git has a mutable index called stage.
 public void static Interger = 8;
 测试合并不消失分支
 565456566----6565666
-qqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqq修复bug第一行代码
+修复一个bug第二行代码
